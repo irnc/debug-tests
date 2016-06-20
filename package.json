@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "mocha"
+    "test": "mocha $NODE_DEBUG_OPTION"
   },
   "devDependencies": {
     "mocha": "^2.5.3"
